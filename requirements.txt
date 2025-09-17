@@ -1,0 +1,6 @@
+streamlit
+mne
+pandas
+matplotlib
+python-docx
+scipy
