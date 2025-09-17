@@ -4,3 +4,6 @@ pandas
 matplotlib
 python-docx
 scipy
+streamlit
+joblib
+pandas
