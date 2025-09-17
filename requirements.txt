@@ -7,3 +7,8 @@ scipy
 streamlit
 joblib
 pandas
+streamlit
+joblib
+pandas
+mne
+mne-connectivity
